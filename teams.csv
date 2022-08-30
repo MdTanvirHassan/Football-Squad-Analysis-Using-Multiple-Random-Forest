@@ -1,0 +1,21 @@
+id,name,short_name,strength
+1,Arsenal,ARS,4
+2,Aston Villa,AVL,3
+3,Brighton,BHA,3
+4,Burnley,BUR,2
+5,Chelsea,CHE,4
+6,Crystal Palace,CRY,3
+7,Everton,EVE,3
+8,Fulham,FUL,3
+9,Leicester,LEI,4
+10,Leeds,LEE,3
+11,Liverpool,LIV,4
+12,Man City,MCI,5
+13,Man Utd,MUN,4
+14,Newcastle,NEW,2
+15,Sheffield Utd,SHU,2
+16,Southampton,SOU,3
+17,Spurs,TOT,4
+18,West Brom,WBA,2
+19,West Ham,WHU,4
+20,Wolves,WOL,3

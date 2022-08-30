@@ -1,0 +1,714 @@
+id,team,element_type,first_name,second_name,web_name,now_cost,initial_cost
+1,1,3,Mesut,Özil,Özil,67,70.0
+2,1,2,Sokratis,Papastathopoulos,Sokratis,48,50.0
+3,1,2,David,Luiz Moreira Marinho,David Luiz,54,55.0
+4,1,3,Pierre-Emerick,Aubameyang,Aubameyang,113,120.0
+5,1,2,Cédric,Soares,Cédric,46,50.0
+6,1,4,Alexandre,Lacazette,Lacazette,84,85.0
+7,1,2,Shkodran,Mustafi,Mustafi,50,50.0
+8,1,1,Bernd,Leno,Leno,50,50.0
+9,1,3,Granit,Xhaka,Xhaka,52,55.0
+10,1,2,Pablo,Marí,Marí,44,45.0
+11,1,2,Héctor,Bellerín,Bellerín,50,50.0
+13,1,2,Calum,Chambers,Chambers,45,45.0
+14,1,2,Sead,Kolasinac,Kolasinac,48,50.0
+16,1,2,Rob,Holding,Holding,43,45.0
+17,1,2,Kieran,Tierney,Tierney,52,55.0
+18,1,3,Nicolas,Pépé,Pépé,77,80.0
+19,1,3,Lucas,Torreira,Torreira,47,50.0
+21,1,3,Reiss,Nelson,Nelson,51,55.0
+22,1,4,Edward,Nketiah,Nketiah,53,60.0
+23,1,3,Emile,Smith Rowe,Smith Rowe,42,45.0
+24,1,3,Bukayo,Saka,Saka,51,55.0
+25,1,3,Matteo,Guendouzi,Guendouzi,47,50.0
+26,1,3,Gabriel Teodoro,Martinelli Silva,Martinelli,49,50.0
+27,1,2,William,Saliba,Saliba,40,45.0
+70,1,1,Mathew,Ryan,Ryan,41,45.0
+478,1,3,Willian,Borges Da Silva,Willian,75,80.0
+494,1,2,Gabriel,Magalhães,Gabriel,49,50.0
+501,1,3,Daniel,Ceballos Fernández,Ceballos,47,50.0
+526,1,3,Mohamed Naser,El Sayed Elneny,Elneny,42,45.0
+527,1,1,Matt,Macey,Macey,40,40.0
+547,1,1,Rúnar Alex,Rúnarsson,Rúnarsson,44,45.0
+567,1,3,Thomas,Partey,Partey,49,50.0
+645,1,3,Martin,Ødegaard,Ødegaard,56,60.0
+689,1,3,Miguel,Azeez,Azeez,45,45.0
+12,2,1,Emiliano,Martínez,Martínez,53,45.0
+28,2,1,Tom,Heaton,Heaton,45,45.0
+29,2,2,Ahmed,El Mohamady,El Mohamady,42,45.0
+30,2,3,Henri,Lansbury,Lansbury,43,45.0
+31,2,2,Neil,Taylor,Taylor,42,45.0
+32,2,1,Jed,Steer,Steer,39,40.0
+33,2,3,Conor,Hourihane,Hourihane,59,60.0
+34,2,3,José Ignacio,Peleteiro Romallo,Jota,59,60.0
+35,2,1,Ørjan,Nyland,Nyland,40,40.0
+36,2,2,Bjorn,Engels,Engels,44,45.0
+37,2,3,Jack,Grealish,Grealish,75,70.0
+38,2,3,John,McGinn,McGinn,55,55.0
+39,2,2,Kortney,Hause,Hause,44,45.0
+40,2,3,Mahmoud Ahmed,Ibrahim Hassan,Trézéguet,52,55.0
+41,2,2,Tyrone,Mings,Mings,54,50.0
+42,2,2,Matt,Targett,Targett,50,45.0
+43,2,2,James,Bree,Bree,45,45.0
+44,2,3,Marvelous,Nakamba,Nakamba,43,45.0
+45,2,3,Anwar,El Ghazi,El Ghazi,52,60.0
+46,2,2,Ezri,Konsa Ngoyo,Konsa,46,45.0
+47,2,2,Frédéric,Guilbert,Guilbert,43,45.0
+48,2,4,Wesley,Moraes,Wesley,60,60.0
+49,2,4,Mbwana,Samatta,Samatta,59,60.0
+50,2,4,Keinan,Davis,Davis,42,45.0
+51,2,4,Indiana,Vassilev,Vassilev,43,45.0
+52,2,3,Douglas Luiz,Soares de Paulo,Douglas Luiz,48,50.0
+106,2,3,Ross,Barkley,Barkley,58,60.0
+496,2,2,Matthew,Cash,Cash,50,50.0
+514,2,4,Ollie,Watkins,Watkins,63,60.0
+540,2,3,Bertrand,Traoré,Traoré,58,60.0
+554,2,3,Jacob,Ramsey,Ramsey,45,45.0
+647,2,3,Morgan,Sanson,Sanson,55,55.0
+671,2,3,Kaine,Hayden,Hayden,45,45.0
+672,2,3,Carney,Chukwuemeka,Chukwuemeka,45,45.0
+683,2,3,Jaden,Philogene-Bidace,Philogene-Bidace,44,45.0
+53,3,4,Glenn,Murray,Murray,48,50.0
+54,3,3,Adam,Lallana,Lallana,62,65.0
+57,3,3,Pascal,Groß,Groß,58,60.0
+58,3,2,Shane,Duffy,Duffy,43,45.0
+59,3,3,Davy,Pröpper,Pröpper,47,50.0
+60,3,3,Aaron,Mooy,Mooy,50,50.0
+61,3,2,Dan,Burn,Burn,42,45.0
+62,3,2,Lewis,Dunk,Dunk,48,50.0
+63,3,2,Martín,Montoya,Montoya,45,45.0
+64,3,4,Florin,Andone,Andone,48,50.0
+65,3,3,Solomon,March,March,49,50.0
+66,3,2,Adam,Webster,Webster,43,45.0
+67,3,2,Joël,Veltman,Veltman,43,45.0
+68,3,4,Neal,Maupay,Maupay,58,65.0
+69,3,3,Leandro,Trossard,Trossard,55,60.0
+71,3,3,Alireza,Jahanbakhsh,Jahanbakhsh,54,55.0
+72,3,3,José,Izquierdo,Izquierdo,55,55.0
+73,3,2,Matthew,Clarke,Clarke,44,45.0
+74,3,2,Ben,White,White,45,45.0
+75,3,2,Bernardo,Fernandes da Silva Junior,Bernardo,39,40.0
+76,3,3,Yves,Bissouma,Bissouma,44,45.0
+77,3,2,Tariq,Lamptey,Lamptey,46,45.0
+78,3,4,Aaron,Connolly,Connolly,52,55.0
+79,3,3,Steven,Alzate,Alzate,41,45.0
+80,3,3,Alexis,Mac Allister,Mac Allister,53,55.0
+503,3,1,Christian,Walton,Walton,40,40.0
+528,3,1,Jason,Steele,Steele,39,40.0
+550,3,3,Jayson,Molumby,Molumby,45,45.0
+574,3,4,Andi,Zeqiri,Zeqiri,50,50.0
+588,3,4,Danny,Welbeck,Welbeck,55,55.0
+597,3,1,Robert,Sánchez,Sánchez,45,45.0
+627,3,3,Percy,Tau,Tau,49,55.0
+628,3,3,Jakub,Moder,Moder,50,50.0
+630,3,3,Reda,Khadra,Khadra,45,45.0
+631,3,3,Teddy,Jenks,Jenks,45,45.0
+632,3,3,Max,Sanders,Sanders,45,45.0
+633,3,3,Jensen,Weir,Weir,45,45.0
+662,3,1,Thomas,McGill,McGill,39,40.0
+663,3,2,Michal,Karbownik,Karbownik,45,45.0
+664,3,3,Moisés,Caicedo,Caicedo,50,50.0
+55,4,3,Dale,Stephens,Stephens,42,45.0
+81,4,2,James,Tarkowski,Tarkowski,53,55.0
+82,4,2,Phil,Bardsley,Bardsley,44,45.0
+83,4,2,Erik,Pieters,Pieters,43,45.0
+84,4,3,Jack,Cork,Cork,50,50.0
+85,4,2,Kevin,Long,Long,43,45.0
+86,4,4,Jay,Rodriguez,Rodriguez,57,60.0
+87,4,4,Ashley,Barnes,Barnes,60,60.0
+88,4,2,Ben,Mee,Mee,47,50.0
+89,4,3,Ashley,Westwood,Westwood,53,55.0
+90,4,3,Johann Berg,Gudmundsson,Gudmundsson,54,55.0
+91,4,4,Chris,Wood,Wood,66,65.0
+92,4,2,Matthew,Lowton,Lowton,44,45.0
+93,4,4,Matej,Vydra,Vydra,48,50.0
+94,4,2,Ben,Gibson,Gibson,39,40.0
+95,4,3,Robbie,Brady,Brady,50,50.0
+96,4,1,Nick,Pope,Pope,55,55.0
+97,4,2,Charlie,Taylor,Taylor,44,45.0
+98,4,3,Josh,Brownhill,Brownhill,49,50.0
+99,4,1,Bailey,Peacock-Farrell,Peacock-Farrell,40,40.0
+100,4,3,Dwight,McNeil,McNeil,57,60.0
+519,4,2,Jimmy,Dunne,Dunne,38,40.0
+520,4,2,Bobby,Thomas,Thomas,39,40.0
+535,4,3,Josh,Benson,Benson,44,45.0
+536,4,2,Anthony,Driscoll-Glennon,Driscoll-Glennon,39,40.0
+551,4,3,Mace,Goodridge,Goodridge,45,45.0
+583,4,1,Will,Norris,Norris,40,40.0
+591,4,4,Max,Thompson,Thompson,45,45.0
+592,4,4,Lewis,Richardson,Richardson,45,45.0
+612,4,3,Anthony,Mancini,Mancini,44,45.0
+613,4,4,Joel,Mumbongo,Mumbongo,45,45.0
+658,4,2,Richard,Nartey,Nartey,40,40.0
+101,5,1,Willy,Caballero,Caballero,46,50.0
+102,5,2,César,Azpilicueta,Azpilicueta,58,60.0
+103,5,4,Olivier,Giroud,Giroud,67,70.0
+104,5,2,Marcos,Alonso,Alonso,56,60.0
+105,5,3,Jorge Luiz,Frello Filho,Jorginho,47,50.0
+107,5,3,Mateo,Kovacic,Kovacic,53,55.0
+109,5,2,Antonio,Rüdiger,Rüdiger,47,50.0
+110,5,2,Kurt,Zouma,Zouma,53,50.0
+111,5,2,Emerson,Palmieri dos Santos,Emerson,47,50.0
+112,5,1,Kepa,Arrizabalaga,Arrizabalaga,47,50.0
+113,5,3,N'Golo,Kanté,Kanté,49,50.0
+114,5,3,Hakim,Ziyech,Ziyech,79,80.0
+116,5,2,Andreas,Christensen,Christensen,47,50.0
+117,5,4,Timo,Werner,Werner,92,95.0
+118,5,4,Tammy,Abraham,Abraham,71,75.0
+119,5,3,Christian,Pulisic,Pulisic,83,85.0
+120,5,3,Mason,Mount,Mount,73,70.0
+121,5,2,Fikayo,Tomori,Tomori,47,50.0
+122,5,3,Callum,Hudson-Odoi,Hudson-Odoi,57,60.0
+123,5,2,Reece,James,James,51,50.0
+124,5,3,Billy,Gilmour,Gilmour,43,45.0
+232,5,2,Benjamin,Chilwell,Chilwell,59,55.0
+490,5,2,Thiago,Thiago,Thiago Silva,56,55.0
+500,5,3,Kai,Havertz,Havertz,83,85.0
+548,5,1,Edouard,Mendy,Mendy,53,50.0
+593,5,1,Karlo,Ziger,Ziger,40,40.0
+605,5,3,Faustino,Anjorin,Anjorin,45,45.0
+698,5,2,Valentino,Livramento,Livramento,40,40.0
+108,6,4,Michy,Batshuayi,Batshuayi,57,60.0
+125,6,2,Gary,Cahill,Cahill,45,45.0
+126,6,1,Wayne,Hennessey,Hennessey,43,45.0
+127,6,2,Mamadou,Sakho,Sakho,44,45.0
+128,6,1,Vicente,Guaita,Guaita,48,50.0
+129,6,2,James,Tomkins,Tomkins,44,45.0
+130,6,3,James,McArthur,McArthur,52,55.0
+131,6,3,James,McCarthy,McCarthy,43,45.0
+132,6,4,Christian,Benteke,Benteke,55,55.0
+133,6,3,Cheikhou,Kouyaté,Kouyaté,48,50.0
+134,6,2,Joel,Ward,Ward,43,45.0
+135,6,2,Martin,Kelly,Kelly,41,45.0
+136,6,4,Connor,Wickham,Wickham,44,45.0
+137,6,3,Andros,Townsend,Townsend,55,60.0
+138,6,3,Luka,Milivojevic,Milivojevic,56,60.0
+139,6,2,Patrick,van Aanholt,van Aanholt,54,55.0
+140,6,4,Jordan,Ayew,Ayew,56,60.0
+141,6,3,Wilfried,Zaha,Zaha,71,70.0
+142,6,3,Jeffrey,Schlupp,Schlupp,53,55.0
+143,6,3,Max,Meyer,Meyer,47,50.0
+144,6,3,Jairo,Riedewald,Riedewald,44,45.0
+145,6,2,Nathan,Ferguson,Ferguson,38,40.0
+146,6,2,Tyrick,Mitchell,Mitchell,38,40.0
+147,6,3,Brandon,Pierrick,Pierrick,43,45.0
+486,6,2,Scott,Dann,Dann,42,45.0
+489,6,3,Eberechi,Eze,Eze,58,60.0
+522,6,2,Sam,Woods,Woods,40,40.0
+534,6,2,Ryan,Inniss,Inniss,40,40.0
+577,6,2,Nathaniel,Clyne,Clyne,45,45.0
+578,6,1,Stephen,Henderson,Henderson,40,40.0
+586,6,1,Jack,Butland,Butland,45,45.0
+641,6,4,Jean-Philippe,Mateta,Mateta,53,60.0
+675,6,2,Reece,Hannam,Hannam,40,40.0
+688,6,3,Jesurun,Rak-Sakyi,Rak-Sakyi,45,45.0
+149,7,3,Fabian,Delph,Delph,48,50.0
+150,7,3,Gylfi,Sigurdsson,Sigurdsson,68,70.0
+151,7,1,Jonas,Lössl,Lössl,43,45.0
+152,7,2,Seamus,Coleman,Coleman,49,50.0
+153,7,4,Cenk,Tosun,Tosun,60,60.0
+154,7,3,Bernard,Anício Caldeira Duarte,Bernard,57,60.0
+155,7,2,Lucas,Digne,Digne,62,60.0
+156,7,2,Michael,Keane,Keane,50,50.0
+157,7,1,Jordan,Pickford,Pickford,48,50.0
+158,7,3,André Filipe,Tavares Gomes,André Gomes,53,55.0
+159,7,3,Alex,Iwobi,Iwobi,59,60.0
+160,7,2,Jonjoe,Kenny,Kenny,43,45.0
+161,7,3,Jean-Philippe,Gbamin,Gbamin,50,50.0
+162,7,2,Yerry,Mina,Mina,55,55.0
+163,7,3,Tom,Davies,Davies,52,55.0
+164,7,4,Dominic,Calvert-Lewin,Calvert-Lewin,75,70.0
+165,7,2,Mason,Holgate,Holgate,48,50.0
+166,7,4,Richarlison,de Andrade,Richarlison,77,80.0
+167,7,1,João,Virgínia,Virgínia,43,45.0
+168,7,3,Anthony,Gordon,Gordon,43,45.0
+169,7,4,Moise,Kean,Kean,57,60.0
+170,7,2,Jarrad,Branthwaite,Branthwaite,39,40.0
+502,7,3,Allan,Marques Loureiro,Allan,52,55.0
+508,7,3,James,Rodríguez,Rodríguez,77,75.0
+512,7,3,Abdoulaye,Doucouré,Doucouré,51,55.0
+559,7,2,Niels,Nkounkou,Nkounkou,40,40.0
+566,7,2,Ben,Godfrey,Godfrey,51,50.0
+573,7,1,Robin,Olsen,Olsen,45,45.0
+596,7,4,Ellis,Simms,Simms,45,45.0
+644,7,3,Tyler,Onyango,Onyango,45,45.0
+651,7,4,Joshua,King,King,50,55.0
+679,7,2,Kyle,John,John,40,40.0
+680,7,3,Nathan,Broadhead,Broadhead,45,45.0
+681,7,2,Ryan,Astley,Astley,40,40.0
+682,7,1,Harry,Tyrer,Tyrer,40,40.0
+690,7,2,Reece,Welch,Welch,40,40.0
+691,7,3,Isaac,Price,Price,45,45.0
+115,8,3,Ruben,Loftus-Cheek,Loftus-Cheek,59,60.0
+171,8,1,Fabricio,Agosto Ramírez,Fabri,39,40.0
+172,8,3,Kevin,McDonald,McDonald,47,50.0
+173,8,2,Maxime,Le Marchand,Le Marchand,41,45.0
+174,8,3,Stefan,Johansen,Johansen,47,50.0
+175,8,3,Tom,Cairney,Cairney,52,55.0
+176,8,2,Tim,Ream,Ream,42,45.0
+177,8,3,Anthony,Knockaert,Knockaert,50,55.0
+178,8,2,Michael,Hector,Hector,41,45.0
+179,8,2,Cyrus,Christie,Christie,42,45.0
+180,8,3,Neeskens,Kebano,Kebano,47,50.0
+181,8,4,Bobby,Decordova-Reid,Decordova-Reid,53,55.0
+182,8,2,Joe,Bryan,Bryan,45,50.0
+183,8,1,Marcus,Bettinelli,Bettinelli,43,45.0
+184,8,4,Aleksandar,Mitrović,Mitrović,55,60.0
+185,8,2,Alfie,Mawson,Mawson,43,45.0
+186,8,1,Marek,Rodák,Rodák,43,45.0
+187,8,3,Ivan Ricardo,Neves Abreu Cavaleiro,Cavaleiro,53,55.0
+188,8,3,Josh,Onomah,Onomah,46,50.0
+189,8,3,Jean Michaël,Seri,Seri,46,50.0
+190,8,3,Aboubakar,Kamara,Kamara,48,50.0
+191,8,3,André-Frank,Zambo Anguissa,Anguissa,44,45.0
+192,8,2,Zeze Steven,Sessegnon,Sessegnon,43,45.0
+373,8,3,Harrison,Reed,Reed,44,45.0
+484,8,2,Antonee,Robinson,Robinson,44,45.0
+493,8,3,Mario,Lemina,Lemina,45,45.0
+516,8,1,Alphonse,Areola,Areola,45,45.0
+517,8,2,Kenny,Tete,Tete,43,45.0
+525,8,2,Denis,Odoi,Odoi,42,45.0
+557,8,3,Ademola,Lookman,Lookman,47,50.0
+562,8,2,Ola,Aina,Aina,43,45.0
+571,8,2,Joachim,Andersen,Andersen,45,45.0
+572,8,2,Tosin,Adarabioyo,Adarabioyo,45,45.0
+585,8,2,Terence,Kongolo,Kongolo,43,45.0
+665,8,4,Josh,Maja,Maja,50,55.0
+695,8,3,Fabio,Carvalho,Carvalho,45,45.0
+707,8,3,Sylvester,Jasper,Jasper,45,45.0
+708,8,3,Tyrese,Francois,Francois,45,45.0
+216,9,2,Wes,Morgan,Morgan,44,45.0
+217,9,1,Kasper,Schmeichel,Schmeichel,54,55.0
+218,9,2,Christian,Fuchs,Fuchs,45,45.0
+219,9,2,Jonny,Evans,Evans,56,55.0
+220,9,3,Adrien,Silva,Silva,44,45.0
+221,9,3,Marc,Albrighton,Albrighton,52,55.0
+222,9,3,Matty,James,James,43,45.0
+223,9,1,Danny,Ward,Ward,43,45.0
+224,9,4,Jamie,Vardy,Vardy,102,100.0
+225,9,3,Dennis,Praet,Praet,52,55.0
+226,9,2,Ricardo Domingos,Barbosa Pereira,Pereira,59,60.0
+227,9,2,Daniel,Amartey,Amartey,39,40.0
+228,9,3,Youri,Tielemans,Tielemans,64,65.0
+229,9,3,Ayoze,Pérez,Pérez,60,65.0
+230,9,3,Demarai,Gray,Gray,51,55.0
+231,9,3,James,Maddison,Maddison,72,70.0
+233,9,4,Kelechi,Iheanacho,Iheanacho,62,60.0
+234,9,3,Hamza,Choudhury,Choudhury,46,50.0
+235,9,3,Harvey,Barnes,Barnes,66,70.0
+236,9,3,Wilfred,Ndidi,Ndidi,48,50.0
+237,9,2,Filip,Benkovic,Benkovic,43,45.0
+238,9,2,Çaglar,Söyüncü,Söyüncü,53,55.0
+239,9,2,James,Justin,Justin,48,45.0
+240,9,2,Luke,Thomas,Thomas,41,45.0
+498,9,2,Timothy,Castagne,Castagne,58,55.0
+518,9,3,Nampalys,Mendy,Mendy,42,45.0
+541,9,3,Cengiz,Ünder,Ünder,57,60.0
+561,9,2,Wesley,Fofana,Fofana,50,50.0
+579,9,4,Islam,Slimani,Slimani,49,50.0
+660,9,2,Vontae,Daley-Campbell,Daley-Campbell,40,40.0
+661,9,3,Thakgalo,Leshabela,Leshabela,44,45.0
+676,9,3,Sidnei,Tavares,Tavares,44,45.0
+684,9,3,Shane,Flynn,Flynn,45,45.0
+687,9,3,Thanawat,Suengchitthawon,Suengchitthawon,45,45.0
+703,9,3,Tawanda,Maswanhise,Maswanhise,45,45.0
+193,10,3,Pablo,Hernández Domínguez,Hernández,57,60.0
+194,10,1,Francisco,Casilla Cortés,Casilla,41,45.0
+195,10,2,Liam,Cooper,Cooper,43,45.0
+196,10,2,Barry,Douglas,Douglas,38,40.0
+197,10,2,Luke,Ayling,Ayling,44,45.0
+198,10,3,Mateusz,Klich,Klich,52,55.0
+199,10,3,Adam,Forshaw,Forshaw,48,50.0
+200,10,2,Stuart,Dallas,Dallas,55,45.0
+201,10,2,Ezgjan,Alioski,Alioski,44,45.0
+202,10,4,Patrick,Bamford,Bamford,66,55.0
+203,10,3,Jack,Harrison,Harrison,56,55.0
+204,10,3,Kalvin,Phillips,Phillips,49,50.0
+205,10,3,Hélder Wander,Sousa de Azevedo e Costa,Costa,50,55.0
+206,10,3,Tyler,Roberts,Roberts,46,50.0
+207,10,3,Jay-Roy,Grot,Grot,47,50.0
+208,10,1,Kamil,Miazek,Miazek,40,40.0
+209,10,3,Ian Carlo,Poveda-Ocampo,Poveda-Ocampo,42,45.0
+210,10,3,Jamie,Shackleton,Shackleton,48,50.0
+211,10,2,Pascal,Struijk,Struijk,40,40.0
+212,10,3,Jordan,Stevens,Stevens,43,45.0
+213,10,1,Illan,Meslier,Meslier,48,45.0
+214,10,2,Leif,Davis,Davis,38,40.0
+215,10,2,Oliver,Casey,Casey,38,40.0
+491,10,2,Robin,Koch,Koch,43,45.0
+492,10,4,Rodrigo,Moreno,Rodrigo,57,60.0
+532,10,1,Elia,Caprile,Caprile,40,40.0
+533,10,3,Mateusz,Bogusz,Bogusz,43,45.0
+549,10,2,Diego,Llorente,Llorente,44,45.0
+570,10,3,Raphael,Dias Belloli,Raphinha,56,55.0
+599,10,3,Jack,Jenkins,Jenkins,45,45.0
+619,10,4,Niall,Huggins,Huggins,45,45.0
+620,10,2,Charlie,Cresswell,Cresswell,40,40.0
+667,10,4,Joe,Gelhardt,Gelhardt,45,45.0
+685,10,2,Gaetano,Berardi,Berardi,40,40.0
+692,10,4,Sam,Greenwood,Greenwood,45,45.0
+693,10,3,Crysencio,Summerville,Summerville,44,45.0
+694,10,2,Cody,Drameh,Drameh,40,40.0
+241,11,3,James,Milner,Milner,53,55.0
+242,11,2,Konstantinos,Tsimikas,Tsimikas,49,50.0
+243,11,3,Georginio,Wijnaldum,Wijnaldum,53,55.0
+244,11,3,Jordan,Henderson,Henderson,54,55.0
+245,11,1,Adrián,San Miguel del Castillo,Adrián,42,45.0
+246,11,2,Joel,Matip,Matip,54,55.0
+247,11,3,Xherdan,Shaqiri,Shaqiri,64,65.0
+248,11,3,Alex,Oxlade-Chamberlain,Chamberlain,63,65.0
+249,11,4,Roberto,Firmino,Firmino,91,95.0
+250,11,2,Virgil,van Dijk,van Dijk,62,65.0
+251,11,3,Sadio,Mané,Mané,118,120.0
+252,11,1,Alisson,Ramses Becker,Alisson,60,60.0
+253,11,3,Fabio Henrique,Tavares,Fabinho,54,55.0
+254,11,3,Mohamed,Salah,Salah,129,120.0
+255,11,2,Andrew,Robertson,Robertson,73,70.0
+256,11,4,Divock,Origi,Origi,51,55.0
+257,11,3,Harry,Wilson,Harry Wilson,51,55.0
+259,11,2,Trent,Alexander-Arnold,Alexander-Arnold,78,75.0
+260,11,2,Joseph,Gomez,Gomez,52,55.0
+261,11,3,Naby,Keita,Keita,52,55.0
+263,11,3,Curtis,Jones,Jones,44,45.0
+264,11,2,Neco,Williams,Neco Williams,38,40.0
+265,11,3,Harvey,Elliott,Elliott,43,45.0
+468,11,3,Diogo,Jota,Jota,69,65.0
+531,11,3,Thiago,Alcántara do Nascimento,Thiago,55,60.0
+560,11,1,Caoimhin,Kelleher,Kelleher,45,45.0
+589,11,2,Nathaniel,Phillips,Phillips,42,40.0
+594,11,2,Rhys,Williams,Rhys Williams,40,40.0
+601,11,3,Leighton,Clarkson,Clarkson,45,45.0
+607,11,3,Jake,Cain,Cain,45,45.0
+652,11,2,Ozan,Kabak,Kabak,50,50.0
+653,11,2,Ben,Davies,Davies,47,50.0
+677,11,1,Liam,Hughes,Hughes,40,40.0
+678,11,1,Jakub,Ojrzynski,Ojrzynski,40,40.0
+696,11,3,Ben,Woodburn,Woodburn,45,45.0
+697,11,2,Billy,Koumetio,Koumetio,40,40.0
+266,12,2,Fernando,Luiz Rosa,Fernandinho,54,55.0
+267,12,1,Claudio,Bravo,Bravo,45,45.0
+268,12,4,Sergio,Agüero,Agüero,103,105.0
+269,12,2,Nicolás,Otamendi,Otamendi,49,50.0
+270,12,2,Kyle,Walker,Walker,61,60.0
+271,12,3,Ilkay,Gündogan,Gündogan,55,55.0
+272,12,3,Kevin,De Bruyne,De Bruyne,118,115.0
+273,12,2,John,Stones,Stones,51,50.0
+274,12,2,Benjamin,Mendy,Mendy,59,60.0
+275,12,3,Riyad,Mahrez,Mahrez,81,85.0
+276,12,3,Raheem,Sterling,Sterling,109,115.0
+277,12,2,João Pedro Cavaco,Cancelo,Cancelo,58,55.0
+278,12,1,Ederson,Santana de Moraes,Ederson,61,60.0
+279,12,2,Nathan,Aké,Aké,54,55.0
+280,12,2,Aymeric,Laporte,Laporte,60,60.0
+281,12,3,Bernardo Mota,Veiga de Carvalho e Silva,Bernardo Silva,74,75.0
+282,12,4,Gabriel Fernando,de Jesus,Jesus,91,95.0
+283,12,2,Oleksandr,Zinchenko,Zinchenko,55,55.0
+284,12,3,Phil,Foden,Foden,61,65.0
+285,12,3,Tommy,Doyle,Doyle,44,45.0
+286,12,3,Rodrigo,Hernandez,Rodrigo,53,55.0
+287,12,3,Ferran,Torres,Torres,70,70.0
+288,12,2,Eric,Garcia,Garcia,47,50.0
+537,12,3,Adrián,Bernabé,Bernabé,45,45.0
+538,12,1,Zack,Steffen,Steffen,44,45.0
+539,12,4,Liam,Delap,Delap,42,45.0
+552,12,3,Cole,Palmer,Palmer,44,45.0
+556,12,2,Rúben Santos,Gato Alves Dias,Dias,59,55.0
+595,12,1,James,Trafford,Trafford,40,40.0
+608,12,1,Scott,Carson,Carson,39,40.0
+609,12,3,Felix,Nmecha,Nmecha,45,45.0
+622,12,2,Luke,Mbete,Mbete,40,40.0
+623,12,2,Taylor,Harwood-Bellis,Harwood-Bellis,40,40.0
+659,12,3,Claudio,Gomes,Gomes,45,45.0
+289,13,1,Sergio,Romero,Romero,49,50.0
+290,13,3,Juan,Mata,Mata,58,60.0
+291,13,1,David,de Gea,de Gea,53,55.0
+292,13,2,Chris,Smalling,Smalling,49,50.0
+293,13,4,Odion,Ighalo,Ighalo,61,65.0
+294,13,2,Marcos,Rojo,Rojo,48,50.0
+295,13,3,Nemanja,Matic,Matic,47,50.0
+296,13,3,Paul,Pogba,Pogba,76,80.0
+297,13,2,Phil,Jones,Jones,48,50.0
+298,13,2,Harry,Maguire,Maguire,55,55.0
+299,13,3,Frederico,Rodrigues de Paula Santos,Fred,53,55.0
+300,13,2,Luke,Shaw,Shaw,55,50.0
+302,13,3,Bruno Miguel,Borges Fernandes,Fernandes,113,105.0
+303,13,4,Anthony,Martial,Martial,86,90.0
+304,13,3,Andreas,Pereira,Pereira,48,50.0
+305,13,1,Dean,Henderson,Henderson,52,55.0
+306,13,3,Marcus,Rashford,Rashford,96,95.0
+307,13,2,Axel,Tuanzebe,Tuanzebe,41,45.0
+308,13,2,Victor,Lindelöf,Lindelöf,48,50.0
+309,13,3,Scott,McTominay,McTominay,49,50.0
+310,13,2,Eric,Bailly,Bailly,48,50.0
+311,13,3,Daniel,James,James,62,65.0
+312,13,2,Timothy,Fosu-Mensah,Fosu-Mensah,43,45.0
+313,13,2,Aaron,Wan-Bissaka,Wan-Bissaka,58,55.0
+314,13,2,José Diogo,Dalot Teixeira,Dalot,48,50.0
+315,13,3,Mason,Greenwood,Greenwood,73,75.0
+316,13,3,Tahith,Chong,Chong,44,45.0
+317,13,3,James,Garner,Garner,44,45.0
+318,13,2,Brandon,Williams,Williams,42,45.0
+319,13,2,Teden,Mengi,Mengi,39,40.0
+495,13,3,Donny,van de Beek,van de Beek,66,70.0
+568,13,2,Alex Nicolao,Telles,Telles,53,55.0
+569,13,4,Edinson,Cavani,Cavani,80,80.0
+575,13,3,Facundo,Pellistri,Pellistri,52,55.0
+604,13,1,Lee,Grant,Grant,40,40.0
+640,13,3,Amad,Diallo,Diallo,54,55.0
+673,13,3,Shola,Shoretire,Shoretire,44,45.0
+686,13,1,Nathan,Bishop,Bishop,40,40.0
+702,13,3,Anthony,Elanga,Elanga,45,45.0
+712,13,3,Hannibal,Mejbri,Mejbri,45,45.0
+713,13,2,William,Fish,Fish,40,40.0
+20,14,3,Joseph,Willock,Willock,49,50.0
+320,14,4,Andy,Carroll,Carroll,51,55.0
+321,14,3,Jonjo,Shelvey,Shelvey,53,55.0
+322,14,3,Matt,Ritchie,Ritchie,49,50.0
+323,14,2,Federico,Fernández,Fernández,47,50.0
+324,14,2,Ciaran,Clark,Clark,45,45.0
+325,14,1,Karl,Darlow,Darlow,49,50.0
+326,14,1,Martin,Dubravka,Dubravka,48,50.0
+327,14,2,Florian,Lejeune,Lejeune,43,45.0
+328,14,2,Jamaal,Lascelles,Lascelles,42,45.0
+329,14,4,Dwight,Gayle,Gayle,59,60.0
+330,14,3,Christian,Atsu,Atsu,52,55.0
+331,14,2,Paul,Dummett,Dummett,44,45.0
+332,14,2,Javier,Manquillo,Manquillo,42,45.0
+333,14,2,Emil,Krafth,Krafth,42,45.0
+334,14,2,Fabian,Schär,Schär,48,50.0
+335,14,2,DeAndre,Yedlin,Yedlin,43,45.0
+336,14,3,Isaac,Hayden,Hayden,46,50.0
+337,14,3,Rolando,Aarons,Aarons,48,50.0
+338,14,3,Allan,Saint-Maximin,Saint-Maximin,52,55.0
+339,14,3,Miguel,Almirón,Almirón,56,60.0
+340,14,4,Joelinton Cássio,Apolinário de Lira,Joelinton,57,60.0
+341,14,4,Yoshinori,Muto,Muto,48,50.0
+342,14,2,Kelland,Watts,Watts,39,40.0
+480,14,3,Sean,Longstaff,Sean Longstaff,46,50.0
+485,14,3,Jeff,Hendrick,Hendrick,45,50.0
+487,14,3,Matthew,Longstaff,Matty Longstaff,48,50.0
+488,14,1,Mark,Gillespie,Gillespie,43,45.0
+497,14,3,Jacob,Murphy,Murphy,49,50.0
+506,14,4,Callum,Wilson,Wilson,65,65.0
+507,14,3,Ryan,Fraser,Fraser,56,60.0
+513,14,2,Jamal,Lewis,Lewis,40,45.0
+602,14,3,Elliot,Anderson,Anderson,45,45.0
+606,14,1,Daniel,Langley,Langley,39,40.0
+262,15,4,Rhian,Brewster,Brewster,42,45.0
+343,15,4,Billy,Sharp,Sharp,55,60.0
+344,15,4,David,McGoldrick,McGoldrick,52,55.0
+345,15,2,Chris,Basham,Basham,46,50.0
+346,15,3,John,Fleck,Fleck,56,60.0
+347,15,2,Enda,Stevens,Stevens,50,55.0
+348,15,1,Simon,Moore,Moore,43,45.0
+349,15,3,Oliver,Norwood,Norwood,45,50.0
+350,15,1,Wes,Foderingham,Foderingham,43,45.0
+351,15,2,George,Baldock,Baldock,49,55.0
+352,15,2,Jack,Robinson,Jack Robinson,42,45.0
+353,15,2,John,Egan,Egan,47,50.0
+354,15,2,Jack,O'Connell,O'Connell,47,50.0
+355,15,3,John,Lundstram,Lundstram,48,55.0
+356,15,3,Ben,Osborn,Osborn,47,50.0
+357,15,4,Oliver,McBurnie,McBurnie,56,60.0
+359,15,4,Lys,Mousset,Mousset,58,60.0
+360,15,3,Sander,Berge,Berge,49,50.0
+424,15,3,Oliver,Burke,Burke,41,45.0
+477,15,3,Luke,Freeman,Freeman,50,50.0
+483,15,1,Aaron,Ramsdale,Ramsdale,46,50.0
+509,15,2,Ethan,Ampadu,Ampadu,43,45.0
+510,15,2,Jayden,Bogle,Bogle,43,45.0
+511,15,2,Max,Lowe,Lowe,42,45.0
+529,15,2,Phil,Jagielka,Jagielka,39,40.0
+580,15,1,Michael,Verrips,Verrips,40,40.0
+603,15,2,Kean,Bryan,Bryan,39,40.0
+618,15,4,Antwoine,Hackford,Hackford,44,45.0
+646,15,2,Kyron,Gordon,Gordon,40,40.0
+656,15,3,Iliman,Ndiaye,Ndiaye,45,45.0
+657,15,3,Zak,Brunt,Brunt,45,45.0
+670,15,3,Frankie,Maguire,Maguire,44,45.0
+699,15,4,Daniel,Jebbison,Jebbison,45,45.0
+704,15,2,Harry,Boyes,Boyes,40,40.0
+705,15,3,Femi,Seriki,Seriki,45,45.0
+711,15,4,William,Osula,Osula,45,45.0
+148,16,3,Theo,Walcott,Walcott,58,60.0
+258,16,3,Takumi,Minamino,Minamino,60,65.0
+361,16,4,Shane,Long,Long,51,55.0
+362,16,2,Ryan,Bertrand,Bertrand,50,50.0
+363,16,1,Alex,McCarthy,McCarthy,44,45.0
+364,16,3,Oriol,Romeu Vidal,Oriol Romeu,45,45.0
+365,16,3,Nathan,Redmond,Redmond,64,65.0
+366,16,4,Danny,Ings,Ings,84,85.0
+367,16,2,Jack,Stephens,Stephens,46,50.0
+368,16,3,Stuart,Armstrong,Armstrong,55,55.0
+369,16,2,Jannik,Vestergaard,Vestergaard,47,45.0
+370,16,3,James,Ward-Prowse,Ward-Prowse,59,60.0
+371,16,1,Angus,Gunn,Gunn,43,45.0
+372,16,3,Sofiane,Boufal,Boufal,54,55.0
+374,16,3,Josh,Sims,Sims,43,45.0
+375,16,2,Kyle,Walker-Peters,Walker-Peters,47,45.0
+376,16,2,Jan,Bednarek,Bednarek,47,45.0
+377,16,4,Che,Adams,Adams,57,60.0
+378,16,2,Yan,Valery,Valery,47,50.0
+379,16,3,William,Smallbone,Smallbone,43,45.0
+380,16,2,Jake,Vokins,Vokins,39,40.0
+381,16,4,Michael,Obafemi,Obafemi,46,50.0
+382,16,3,Moussa,Djenepo,Djenepo,54,55.0
+479,16,2,Mohammed,Salisu,Salisu,43,45.0
+523,16,1,Fraser,Forster,Forster,40,40.0
+524,16,3,Nathan,Tella,Tella,43,45.0
+565,16,3,Ibrahima,Diallo,Diallo,45,45.0
+590,16,4,Daniel,N'Lundulu,N'Lundulu,45,45.0
+598,16,2,Kayne,Ramsay,Ramsay,40,40.0
+624,16,3,Kgaogelo,Chauke,Chauke,44,45.0
+625,16,1,Harry,Lewis,Lewis,40,40.0
+634,16,3,Will,Ferry,Ferry,45,45.0
+635,16,2,Allan,Tchaptchet,Tchaptchet,40,40.0
+636,16,3,Caleb,Watts,Watts,45,45.0
+643,16,3,Alexandre,Jankewitz,Jankewitz,45,45.0
+655,16,3,Ryan,Finnigan,Finnigan,45,45.0
+383,17,1,Hugo,Lloris,Lloris,56,55.0
+384,17,2,Danny,Rose,Rose,47,50.0
+385,17,3,Moussa,Sissoko,Sissoko,47,50.0
+386,17,2,Toby,Alderweireld,Alderweireld,54,55.0
+387,17,3,Erik,Lamela,Lamela,57,60.0
+388,17,4,Harry,Kane,Kane,119,105.0
+389,17,2,Serge,Aurier,Aurier,52,55.0
+390,17,3,Heung-Min,Son,Son,96,90.0
+391,17,2,Eric,Dier,Dier,46,50.0
+392,17,3,Lucas,Rodrigues Moura da Silva,Lucas Moura,64,70.0
+393,17,1,Paulo,Gazzaniga,Gazzaniga,43,45.0
+394,17,3,Bamidele,Alli,Alli,74,80.0
+395,17,2,Ben,Davies,Davies,45,50.0
+396,17,3,Pierre-Emile,Højbjerg,Højbjerg,49,50.0
+397,17,3,Harry,Winks,Winks,51,55.0
+398,17,2,Davinson,Sánchez,Sánchez,52,55.0
+399,17,2,Ryan,Sessegnon,Sessegnon,47,50.0
+400,17,3,Steven,Bergwijn,Bergwijn,70,75.0
+401,17,3,Gedson,Carvalho Fernandes,Fernandes,47,50.0
+402,17,2,Japhet,Tanganga,Tanganga,49,50.0
+403,17,3,Giovani,Lo Celso,Lo Celso,69,70.0
+404,17,3,Oliver,Skipp,Skipp,44,45.0
+405,17,3,Tanguy,Ndombele,Ndombele,59,60.0
+406,17,2,Juan,Foyth,Foyth,43,45.0
+457,17,2,Matt,Doherty,Doherty,56,60.0
+482,17,1,Joe,Hart,Hart,42,45.0
+521,17,2,Cameron,Carter-Vickers,Carter-Vickers,39,40.0
+542,17,2,Sergio,Reguilón,Reguilón,55,55.0
+543,17,3,Gareth,Bale,Bale,92,95.0
+564,17,4,Carlos Vinicius,Alves Morais,Carlos Vinicius,69,70.0
+584,17,2,Joe,Rodon,Rodon,49,50.0
+650,17,3,Alfie,Devine,Devine,44,45.0
+666,17,4,Dane,Scarlett,Scarlett,45,45.0
+710,17,3,Nile,John,John,45,45.0
+15,18,2,Ainsley,Maitland-Niles,Maitland-Niles,46,50.0
+56,18,1,David,Button,Button,39,40.0
+358,18,4,Callum,Robinson,Callum Robinson,52,55.0
+407,18,2,Kieran,Gibbs,Gibbs,43,45.0
+408,18,4,Hal,Robson-Kanu,Robson-Kanu,52,55.0
+409,18,3,Jake,Livermore,Livermore,47,50.0
+410,18,3,Kamil,Grosicki,Grosicki,52,55.0
+411,18,3,Matt,Phillips,Phillips,51,55.0
+412,18,2,Kyle,Bartley,Bartley,44,45.0
+413,18,3,Romaine,Sawyers,Sawyers,46,50.0
+414,18,2,Ahmed El-Sayed,Hegazy,Hegazi,41,45.0
+415,18,4,Charlie,Austin,Austin,51,55.0
+416,18,4,Kenneth,Zohore,Zohore,48,50.0
+417,18,1,Sam,Johnstone,Johnstone,46,45.0
+418,18,2,Conor,Townsend,Townsend,44,45.0
+419,18,2,Oluwasemilogo Adesewo Ibidapo,Ajayi,Ajayi,48,50.0
+420,18,3,Jonathan,Leko,Leko,45,45.0
+421,18,3,Kyle,Edwards,Edwards,46,50.0
+422,18,2,Darnell,Furlong,Furlong,45,45.0
+423,18,3,Sam,Field,Field,48,50.0
+425,18,2,Dara,O'Shea,O'Shea,42,45.0
+426,18,3,Rekeem,Harper,Harper,43,45.0
+428,18,3,Robert,Snodgrass,Snodgrass,56,60.0
+446,18,3,Grady,Diangana,Diangana,50,55.0
+481,18,3,Matheus,Pereira,Pereira,54,60.0
+499,18,2,Cedric,Kipre,Kipre,43,45.0
+530,18,2,Branislav,Ivanovic,Ivanovic,44,45.0
+544,18,3,Conor,Gallagher,Gallagher,55,55.0
+555,18,3,Filip,Krovinovic,Krovinovic,49,50.0
+582,18,4,Karlan,Grant,Grant,56,60.0
+600,18,2,Lee,Peltier,Peltier,39,40.0
+621,18,4,Cheikh,Diaby,Diaby,45,45.0
+639,18,1,Andy,Lonergan,Lonergan,40,40.0
+648,18,4,Mbaye,Diagne,Diagne,60,60.0
+654,18,3,Okay,Yokuslu,Yokuslu,45,45.0
+700,18,2,Caleb,Taylor,Taylor,40,40.0
+701,18,3,Taylor,Gardner-Hickman,Gardner-Hickman,45,45.0
+706,18,3,Toby,King,King,45,45.0
+709,18,3,Tim,Iroegbunam,Iroegbunam,45,45.0
+301,19,3,Jesse,Lingard,Lingard,66,60.0
+427,19,3,Mark,Noble,Noble,45,50.0
+429,19,1,David,Martin,Martin,39,40.0
+430,19,1,Darren,Randolph,Randolph,43,45.0
+431,19,1,Lukasz,Fabianski,Fabianski,50,50.0
+432,19,2,Angelo,Ogbonna,Ogbonna,47,50.0
+433,19,1,Roberto,Jimenez Gago,Roberto,45,45.0
+434,19,3,Jack,Wilshere,Wilshere,49,50.0
+435,19,2,Aaron,Cresswell,Cresswell,57,50.0
+436,19,3,Andriy,Yarmolenko,Yarmolenko,55,60.0
+437,19,4,Michail,Antonio,Antonio,67,65.0
+438,19,2,Ryan,Fredericks,Fredericks,42,45.0
+439,19,3,Manuel,Lanzini,Lanzini,64,65.0
+440,19,3,Felipe Anderson,Pereira Gomes,Felipe Anderson,61,65.0
+441,19,4,Sébastien,Haller,Haller,61,65.0
+442,19,2,Arthur,Masuaku,Masuaku,43,45.0
+443,19,2,Fabián,Balbuena,Balbuena,41,45.0
+444,19,4,Jordan,Hugill,Hugill,55,55.0
+445,19,3,Jarrod,Bowen,Bowen,58,65.0
+447,19,4,Albian,Ajeti,Ajeti,55,55.0
+448,19,3,Declan,Rice,Rice,47,50.0
+449,19,3,Tomas,Soucek,Soucek,52,50.0
+450,19,3,Pablo,Fornals,Fornals,58,65.0
+451,19,2,Issa,Diop,Diop,43,45.0
+452,19,2,Ben,Johnson,Johnson,39,40.0
+558,19,2,Vladimir,Coufal,Coufal,48,45.0
+576,19,2,Craig,Dawson,Dawson,45,45.0
+587,19,3,Saïd,Benrahma,Benrahma,59,60.0
+637,19,2,Frederik,Alves,Alves,40,40.0
+638,19,4,Ademipo,Odubeko,Odubeko,45,45.0
+668,19,3,Conor,Coventry,Coventry,45,45.0
+669,19,2,Jamal,Baptiste,Baptiste,40,40.0
+674,19,1,Nathan,Trott,Trott,40,40.0
+453,20,1,John,Ruddy,Ruddy,43,45.0
+454,20,3,João Filipe Iria,Santos Moutinho,Moutinho,51,55.0
+455,20,1,Rui Pedro,dos Santos Patrício,Patrício,53,55.0
+456,20,2,Ryan,Bennett,Bennett,44,45.0
+458,20,2,Willy,Boly,Boly,54,55.0
+459,20,2,Conor,Coady,Coady,49,50.0
+460,20,4,Raúl,Jiménez,Jiménez,81,85.0
+461,20,2,Romain,Saïss,Saïss,49,50.0
+462,20,2,Jonathan,Castro Otto,Jonny,54,55.0
+463,20,4,Léo,Bonatini,Bonatini,48,50.0
+464,20,3,Leander,Dendoncker,Dendoncker,46,50.0
+465,20,3,Adama,Traoré,Traoré,60,65.0
+466,20,3,Rúben Diogo,da Silva Neves,Neves,51,55.0
+467,20,2,Oskar,Buur,Buur,39,40.0
+469,20,3,Daniel,Castelo Podence,Podence,53,55.0
+470,20,2,Max,Kilman,Kilman,38,40.0
+471,20,2,Rúben Gonçalo,Silva Nascimento Vinagre,Vinagre,41,45.0
+472,20,1,Matija,Sarkic,Sarkic,44,45.0
+473,20,3,Morgan,Gibbs-White,Gibbs-White,49,50.0
+474,20,3,Pedro,Lomba Neto,Neto,55,55.0
+475,20,3,Bruno André,Cavaco Jordao,Jordao,43,45.0
+476,20,4,Leonardo,Campana,Campana,47,50.0
+504,20,4,Fabio,Silva,Fabio Silva,52,55.0
+505,20,2,Fernando,Marçal,Marçal,47,50.0
+515,20,3,Vitor,Ferreira,Vitinha,47,50.0
+545,20,2,Ki-Jana,Hoever,Hoever,44,45.0
+546,20,2,Nélson,Cabral Semedo,Semedo,51,55.0
+553,20,3,Meritan,Shabani,Shabani,44,45.0
+563,20,2,Rayan,Ait Nouri,Ait Nouri,50,50.0
+581,20,3,Owen,Otasowie,Otasowie,45,45.0
+610,20,3,Theo,Corbeanu,Corbeanu,44,45.0
+611,20,3,Taylor,Perry,Perry,44,45.0
+614,20,3,Luke,Cundle,Cundle,45,45.0
+615,20,2,Lewis,Richards,Richards,40,40.0
+616,20,2,Christian,Marques,Marques,39,40.0
+617,20,1,Andreas,Söndergaard,Söndergaard,40,40.0
+626,20,4,Patrick,Cutrone,Cutrone,59,60.0
+629,20,2,Nigel,Lonwijk,Lonwijk,39,40.0
+642,20,4,Willian José,Da Silva,Willian José,68,70.0
+649,20,2,Hugo,Bueno,Bueno,40,40.0
